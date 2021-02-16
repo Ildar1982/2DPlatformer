@@ -58,10 +58,11 @@
     <Compile Include="Assets\Scripts\Other\ObstacleUp.cs" />
     <Compile Include="Assets\Scripts\Enemy\MoveEnemy.cs" />
     <Compile Include="Assets\Scripts\Player\InputPlayer.cs" />
+    <Compile Include="Assets\Scripts\Other\Money.cs" />
     <Compile Include="Assets\Scripts\Other\Ground.cs" />
     <Compile Include="Assets\Scripts\Player\MoverPlayer.cs" />
     <Compile Include="Assets\Scripts\Player\Hero.cs" />
-    <Compile Include="Assets\Scripts\Other\Money.cs" />
+    <Compile Include="Assets\Scripts\Other\Spawner.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
