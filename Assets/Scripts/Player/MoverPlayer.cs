@@ -5,7 +5,7 @@ using UnityEngine;
 public class MoverPlayer : MonoBehaviour
 {
     private float _sizeStepStandart = 2;
-    private float _jampStep = 2;
+    private float _jampStep = 3;
     private float _jampHeigth = 1;
     private bool _jampInit = false;
     private bool _move = false;
